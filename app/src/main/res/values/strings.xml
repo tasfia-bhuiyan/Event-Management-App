@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Event Management</string>
+    <string-array name="locations_array">
+        <item>Hathazari</item>
+        <item>Chawkbazar</item>
+        <item>GEC</item>
+        <item>Bhodarhhat</item>
+    </string-array>
+</resources>
